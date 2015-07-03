@@ -9,7 +9,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-10">
-          <h1 style="font-family: 'Orbitron', sans-serif">Task Manager</h1>
+          <h1 class="orbitron_h1">Task Manager</h1>
         </div>
       </div>
       <div class="row">

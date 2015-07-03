@@ -4,7 +4,7 @@
   </head>
   <body>
     <div class="panel panel-default">
-      <div class="panel-heading">Lista de Tarefas</div>
+      <div class="panel-heading orbitron_panel">Lista de Tarefas</div>
       <div class="panel-body">
         <table class="table table-striped table-bordered">
           <thead>
