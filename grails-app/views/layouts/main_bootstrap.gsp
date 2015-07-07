@@ -16,7 +16,7 @@
         <div class="col-md-10">
           <ul class="nav nav-pills">
             <li role="presentation" class="active"><a href="#">Home</a></li>
-            <li role="presentation"><a href="#">Tarefas</a></li>
+            <li role="presentation"><a href="nova">Nova Tarefa</a></li>
             <li role="presentation"><a href="#">Login</a></li>
           </ul>
         </div>
