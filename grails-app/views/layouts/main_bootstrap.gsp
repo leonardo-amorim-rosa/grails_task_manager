@@ -12,19 +12,14 @@
           <h1 class="orbitron_h1">Task Manager</h1>
         </div>
       </div>
-      <div class="row">
+      <div class="row menu_principal">
         <div class="col-md-10">
           <ul class="nav nav-pills">
-            <li role="presentation" class="active"><a href="#">Home</a></li>
-            <li role="presentation"><a href="nova">Nova Tarefa</a></li>
+            <li role="presentation" class="active"><a href="/task-manager/tarefas/index">Home</a></li>
+            <li role="presentation"><a href="/task-manager/tarefas/nova">Nova Tarefa</a></li>
             <li role="presentation"><a href="#">Login</a></li>
           </ul>
         </div>
-        <div class="col-md-10"></div>
-        <div class="col-md-10"></div>
-        <div class="col-md-10"></div>
-        <div class="col-md-10"></div>
-        <div class="col-md-10"></div>
       </div>
       <div class="row">
         <div class="col-md-10">
